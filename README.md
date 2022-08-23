@@ -1,5 +1,5 @@
 # CSharpDllLibrary
 
-#У цьому сховищі присутні мої бібліотеки DLL з мови програмування C#.
+#РЈ С†СЊРѕРјСѓ СЃС…РѕРІРёС‰С– РїСЂРёСЃСѓС‚РЅС– РјРѕС— Р±С–Р±Р»С–РѕС‚РµРєРё DLL Р· РјРѕРІРё РїСЂРѕРіСЂР°РјСѓРІР°РЅРЅСЏ C#.
 
 #This repository contains my DLL libraries on the C# programming language.
